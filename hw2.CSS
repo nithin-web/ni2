@@ -1,0 +1,60 @@
+h1{
+	font-variant: small-caps;
+	font-size: 30px;
+}
+img{
+	display: block;
+	max-width: 200px;
+	min-width: 50px
+	height: 150px;
+	margin: 50px;
+}
+header{
+	height: 250px;
+	color: #ffffff;
+	text-align: center;
+	background-image: url("http://intro-webdesign.com/CSS/assignment-2/images/flywheel.jpg"); 
+	background-repeat: none;
+	background-size: cover;
+	padding-top: 15px;
+	margin: auto 10px;
+}
+body{
+	display: inline;
+	margin: right 10px;
+	font-size: 20px;
+	font-weight: bold;
+	max-width: 500px;
+	min-width: 100px;
+	overflow: scroll;
+}
+aside{
+	float: left;
+	background-color: #01579b;
+	margin: -25px 30px 0px 10px; 
+}
+.active:link{
+	background-color: white;
+}
+nav a{
+	color: #000000;
+	text-decoration: none;
+	font-size: 30px;
+	display: inline-block;
+	margin: 50px;
+	max-width: 200px;
+	min-width: 100px;
+	background-color: #ffffff75;
+	height: 60px;
+	padding-top: 15px;
+	font-size: 25px;
+}
+.right{
+	display: inline;
+	overflow: scroll;
+	max-height: 500px;
+	min-height: 100px
+}
+
+
+
